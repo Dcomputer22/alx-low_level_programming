@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main: Entry point
- * Description: printf will be used to print the output with \n as newline
+ * main- Entry point
  * Return: Always 0 (Success)
  */
 int main(void)
