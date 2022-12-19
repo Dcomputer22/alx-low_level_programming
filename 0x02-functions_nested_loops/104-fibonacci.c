@@ -1,5 +1,4 @@
 #include <stdio.h>
-	
 
 	/**
 	 * main - prints numbers
@@ -41,4 +40,3 @@
 		printf("\n");
 		return (0);
 	}
-
