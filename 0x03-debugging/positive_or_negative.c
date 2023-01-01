@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * positve_or_negative - prints numbers negative or positive
+ * positive_or_negative -prints positive and negative numbers
  * Return: void
+ * @i: the integer given
  */
 void positive_or_negative(int i)
 {
@@ -13,3 +14,4 @@ void positive_or_negative(int i)
 	else if (i < 0)
 		printf("%d is negative\n", i);
 }
+
